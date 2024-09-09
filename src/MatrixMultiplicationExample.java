@@ -222,5 +222,3 @@ class MatrixMultiplicationExample extends GridSim {
         }
     }
 }
-
-
